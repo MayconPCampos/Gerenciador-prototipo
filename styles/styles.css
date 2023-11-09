@@ -130,14 +130,17 @@ body{
         font-weight: bold;
     }
 
-    .board-item{
+    .card{
         margin-top: 5px;
         width: 100%;
+        min-height: 50px;
         background-color: #fff;
         border-radius: 10px;
         cursor: pointer;
+        display: flex;
+        align-items: center ;
     }
-    .board-item:hover{
+    .card:hover{
         background-color: rgba(0,0,0,.1);
     }
 

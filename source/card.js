@@ -3,7 +3,7 @@ const createCard = (boardList) => {
         
     // card
     let card = document.createElement("li");
-    card.classList.add("board-item");
+    card.classList.add("card");
 
     //cor de fundo do card
     card.style.backgroundColor = boardList.background
