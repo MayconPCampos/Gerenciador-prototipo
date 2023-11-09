@@ -1,5 +1,5 @@
 body{
-    background-image: url("/images/bg.avif");
+    background-image: url("../images/bg.avif");
     background-size: auto;
     background-repeat: no-repeat;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
