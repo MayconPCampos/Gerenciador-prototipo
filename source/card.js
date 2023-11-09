@@ -5,6 +5,9 @@ const createCard = (boardList) => {
     let card = document.createElement("li");
     card.classList.add("board-item");
 
+    //cor de fundo do card
+    card.style.backgroundColor = boardList.background
+
     // titulo do card
     let cardTitle = document.createElement("p");
     cardTitle.textContent = boardList.cardTitle
