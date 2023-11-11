@@ -3,6 +3,7 @@ body{
     background-size: auto;
     background-repeat: no-repeat;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
 }
 
 /* barra de rolagem */
@@ -100,7 +101,7 @@ body{
     }
 
     .work-space{
-        min-height: 770px;
+        max-height: 800px;
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
@@ -118,7 +119,7 @@ body{
         overflow-y: scroll;
         background-color: #eee;
         border-radius: 10px;
-        padding: 15px 12px 12px;
+        padding: 15px 8px 12px;
     }
 
     .board-title{
@@ -139,9 +140,6 @@ body{
         cursor: pointer;
         display: flex;
         align-items: center ;
-    }
-    .card:hover{
-        background-color: rgba(0,0,0,.1);
     }
 
     .card-title{
