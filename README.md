@@ -1,5 +1,5 @@
-# Protótipo - dashboard para controle de tarefas.
+# Prototype - task management dashboard.
 
-Página gerada com uso de javascript vanilla
+Page generated using vanilla JavaScript.
 
-<a href="https://mayconpcampos.github.io/Gerenciador-prototipo/" target="_blank">Clique aqui para ver no navegador</a>
+<a href="https://mayconpcampos.github.io/Gerenciador-prototipo/" target="_blank">See on the browser</a>
